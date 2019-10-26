@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "265191051943",
+    "firebase_url": "https://alerta-4270c.firebaseio.com",
+    "project_id": "alerta-4270c",
+    "storage_bucket": "alerta-4270c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265191051943:android:8b4639f8f1f92b15c50182",
+        "android_client_info": {
+          "package_name": "com.example.alerta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265191051943-ia0s0va2l0btg31bnb6kdja7tptrie12.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alerta",
+            "certificate_hash": "6d1e79b48e5b203b05a0371eec5c744e261444cb"
+          }
+        },
+        {
+          "client_id": "265191051943-si8h9vr81ormm9ca74kqp7tjf60357on.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA76GvkXAb3Wp-joM-Kq28arz6qvbRw-uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265191051943-si8h9vr81ormm9ca74kqp7tjf60357on.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

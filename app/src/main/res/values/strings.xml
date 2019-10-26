@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Alerta</string>
+    <string name="imge_bomberos">Imge_bomberos</string>
+    <string name="not_log_in">No se pudo iniciar sesion</string>
+    <string name="not_log_out">No se pudo cerrar sesion</string>
+    <string name="panic_botton">Panic-botton</string>
+    <string name="textnombe">TextNombe</string>
+    <string name="nombre">Nombre</string>
+    <string name="correo">Correo</string>
+    <string name="logout">LogOut</string>
+    <string name="telefono">Telefono</string>
+    <string name="direccion">Direccion</string>
+    <string name="gps_desactivado">GPS Desactivado</string>
+    <string name="gps_activado">GPS Activado</string>
+</resources>
